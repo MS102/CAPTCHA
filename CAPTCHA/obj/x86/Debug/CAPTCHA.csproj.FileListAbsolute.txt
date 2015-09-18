@@ -1,0 +1,45 @@
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.pdb
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form1.resources
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Properties.Resources.resources
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.exe
+c:\users\марья\documents\visual studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.pdb
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form2.resources
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe.config
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe.config
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.exe
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.pdb
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.pdb
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form1.resources
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form2.resources
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Properties.Resources.resources
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Марья\Desktop\CAPTCHA\CAPTCHA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form3.resources
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form4.resources
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form5.resources
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form6.resources
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form7.resources
+C:\Users\Марья\Documents\Visual Studio 2010\Projects\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form8.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe.config
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.exe
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.pdb
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.exe
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\bin\Debug\CAPTCHA.pdb
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form1.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form2.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form3.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form4.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form5.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form6.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form7.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Form8.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\CAPTCHA.Properties.Resources.resources
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Марья\Dropbox\Диплом\CAPTCHA\CAPTCHA\obj\x86\Debug\GenerateResource.write.1.tlog
