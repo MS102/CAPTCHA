@@ -1,0 +1,15 @@
+c:\users\марья\documents\visual studio 2010\Projects\Remote\Remote\bin\Debug\Remote.exe
+c:\users\марья\documents\visual studio 2010\Projects\Remote\Remote\bin\Debug\Remote.pdb
+c:\users\марья\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\марья\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug\Remote.exe
+c:\users\марья\documents\visual studio 2010\Projects\Remote\Remote\obj\x86\Debug\Remote.pdb
+C:\Users\Марья\Dropbox\Remote\Remote\obj\x86\Debug\Remote.exe
+C:\Users\Марья\Dropbox\Remote\Remote\obj\x86\Debug\Remote.pdb
+C:\Users\Марья\Dropbox\Remote\Remote\bin\Debug\Remote.exe
+C:\Users\Марья\Dropbox\Remote\Remote\bin\Debug\Remote.pdb
+C:\Users\Марья\Dropbox\Remote\Remote\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kupik_000\Dropbox\Remote\Remote\obj\x86\Debug\Remote.exe
+C:\Users\kupik_000\Dropbox\Remote\Remote\obj\x86\Debug\Remote.pdb
+C:\Users\kupik_000\Dropbox\Remote\Remote\bin\Debug\Remote.exe
+C:\Users\kupik_000\Dropbox\Remote\Remote\bin\Debug\Remote.pdb
+C:\Users\kupik_000\Dropbox\Remote\Remote\obj\x86\Debug\Remote.csprojResolveAssemblyReference.cache

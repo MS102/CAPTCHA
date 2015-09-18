@@ -1,0 +1,15 @@
+c:\users\марья\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+c:\users\марья\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+c:\users\марья\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\марья\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.exe
+c:\users\марья\documents\visual studio 2010\Projects\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.pdb
+C:\Users\kupik_000\Dropbox\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.exe
+C:\Users\kupik_000\Dropbox\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.pdb
+C:\Users\Марья\Dropbox\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.exe
+C:\Users\Марья\Dropbox\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.pdb
+C:\Users\Марья\Dropbox\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\Марья\Dropbox\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\Марья\Dropbox\RemoteServer\RemoteServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kupik_000\Dropbox\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\kupik_000\Dropbox\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\kupik_000\Dropbox\RemoteServer\RemoteServer\obj\x86\Debug\RemoteServer.csprojResolveAssemblyReference.cache
